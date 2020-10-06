@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Pembagian Tugas
+![alt text](https://github.com/blst-ipb-engineering/wikrama-laravel-ipbtraining/blob/master/public/images/timeline-project-bulan1.jpg?raw=true)
+
 ## About Project
 
 Project dibuat sebagai tempat konsolidasi tugas PKL RPL Wikrama dari IPBTRAINING. Laravel yang digunakan versi 8.x. Untuk mengerjakan tugas yang sudah diberikan ikuti instruksi berikut:
