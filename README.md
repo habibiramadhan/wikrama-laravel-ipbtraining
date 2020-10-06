@@ -56,7 +56,7 @@ gunakan nama field di bawah
 - materi_komentar (VARCHAR) = Komentar materi pelatihan
 - kesan (TEXT) = Kesan saya mengikuti kegiatan ini adalah?
 
-Pada table trainer_ratings
+##### Pada table trainer_ratings
 -penyampaian_trainer (INT)
 -trainer_komentar (VARCHAR)
 
