@@ -56,9 +56,9 @@ gunakan nama field di bawah
 - materi_komentar (VARCHAR) = Komentar materi pelatihan
 - kesan (TEXT) = Kesan saya mengikuti kegiatan ini adalah?
 
-##### Pada table trainer_ratings
--penyampaian_trainer (INT)
--trainer_komentar (VARCHAR)
+Pada table trainer_ratings
+- penyampaian_trainer (INT)
+- trainer_komentar (VARCHAR)
 
 ## Instruksi khusus Project [Kuesioner Trainer](https://docs.google.com/forms/d/e/1FAIpQLSeKx5T0iJM4Xar09RV9mxj8d71iPfvbWulUvfXYHa4V9tupog/viewform?c=0&w=1)
 Kurang lebih sama instruksinya dengan di atas, namun yang berbeda, kami belum memiliki database untuk kuesioner trainer.
