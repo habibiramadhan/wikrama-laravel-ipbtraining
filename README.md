@@ -8,7 +8,7 @@
 </p>
 
 ## Pembagian Tugas
-![alt text](https://github.com/blst-ipb-engineering/wikrama-laravel-ipbtraining/blob/master/public/images/timeline-project-bulan1.jpg?raw=true)
+![alt text](https://github.com/blst-ipb-engineering/wikrama-laravel-ipbtraining/blob/master/public/images/timeline-project-bulan1.jpeg)
 
 ## About Project
 
