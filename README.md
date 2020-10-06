@@ -45,16 +45,16 @@ data kuesioner diletakkan pada table pivot.
 FYI kuesioner peserta sebelumnya sudah ada, namun perlu ada penyesuaian, saat ini ada nama field berikut yang sudah exists di web app kami.
 gunakan nama field di bawah
 
-sumber_informasi (VARCHAR) = Dari mana anda mengetahui informasi training ini? *
-merekomendasikan (VARCHAR) = Apakah anda merekomendasikan training ini untuk teman anda? (tuliskan nama dan kontaknya untuk penyampaian informasi pealtihan) *
-request_pelatihan (VARCHAR) = Tuliskan pelatihan lain yang anda butuhkan ?
-layanan_panitia_sikap (INT) = Layanan panitia (attitude) 1-4
-layanan_panitia_sikap_komentar (VARCHAR) = Komentar terkait layanan panitia (attitude)
-layanan_panitia_kinerja_kualitas (INT) = Layanan panitia (kinerja) *
-layanan_panitia_kinerja_kualitas_komentar (VARCHAR) = Komentar terkait layanan panitia (kinerja)
-materi (INT) = Materi pelatihan sesuai dengan kebutuhan kerja? *
-materi_komentar (VARCHAR) = Komentar materi pelatihan
-kesan (TEXT) = Kesan saya mengikuti kegiatan ini adalah?
+- sumber_informasi (VARCHAR) = Dari mana anda mengetahui informasi training ini? *
+- merekomendasikan (VARCHAR) = Apakah anda merekomendasikan training ini untuk teman anda? (tuliskan nama dan kontaknya untuk penyampaian informasi - pealtihan) *
+- request_pelatihan (VARCHAR) = Tuliskan pelatihan lain yang anda butuhkan ?
+- layanan_panitia_sikap (INT) = Layanan panitia (attitude) 1-4
+- layanan_panitia_sikap_komentar (VARCHAR) = Komentar terkait layanan panitia (attitude)
+- layanan_panitia_kinerja_kualitas (INT) = Layanan panitia (kinerja) *
+- layanan_panitia_kinerja_kualitas_komentar (VARCHAR) = Komentar terkait layanan panitia (kinerja)
+- materi (INT) = Materi pelatihan sesuai dengan kebutuhan kerja? *
+- materi_komentar (VARCHAR) = Komentar materi pelatihan
+- kesan (TEXT) = Kesan saya mengikuti kegiatan ini adalah?
 
 penyampaian_trainer (INT)
 trainer_komentar (VARCHAR)
